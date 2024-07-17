@@ -16,7 +16,7 @@
     * slider on pnone's screen
 
 # Link to the preview:
-  - [DEMO LINK](https://levchenko-dmytro.github.io/layout_landing-page-Potr-Pots)
+  - [DEMO LINK](https://levchenko-dmytro.github.io/Happy_Plants)
 
 # Link to the mockup:
   - [Potr Pots](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?type=design&node-id=1760-807&mode=design&t=Tz8IQPrzuylMGkG8-0)
